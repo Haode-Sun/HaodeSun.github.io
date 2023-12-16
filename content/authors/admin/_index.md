@@ -21,7 +21,7 @@ status:
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
-- GIS 
+- Spatial big data analytics 
 - Urban Analysis
 - Transportation
 
@@ -42,10 +42,10 @@ social:
   - icon: envelope
     icon_pack: fas
     link: 'mailto:sunhaode286@outlook.com' # For a direct email link, use "mailto:test@example.org".
-  - icon: Linkedin
+  - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/haode-sun-591016137/
-  - icon: Github
+  - icon: github
     icon_pack: fab
     link: https://github.com/Haode-Sun
 # Uncomment below for Github link
