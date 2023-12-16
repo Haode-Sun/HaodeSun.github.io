@@ -66,6 +66,4 @@ social:
 I am passionate about addressing spatial, urban, and transportation challenges through the integration of GIS, machine learning, and big data analytics. 
 My primary goal is to innovate in the field of transportation, striving to make systems more accessible, equitable, and sustainable.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
-
 {{< icon name="download" pack="fas" >}} {{< staticref "uploads/resume.pdf" "newtab" >}}Download{{< /staticref >}} my resumé as a PDF.
