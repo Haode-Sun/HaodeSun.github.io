@@ -41,7 +41,7 @@ experience:
     location: Shijiazhuang, China
     date_start: '2018-09-03'
     date_end: '2022-06-05'
-    description: My dissertation was on Sponge Cities
+    description: My dissertation was on Sponge Cities.
 
 design:
   columns: '1'
