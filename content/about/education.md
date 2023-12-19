@@ -25,7 +25,7 @@ experience:
   - title: MSc Urban Data Science and Analytics
     company: University of Leeds
     company_url: 'https://www.leeds.ac.uk/'
-    company_logo: img/University_of_Leeds_logo.png
+    company_logo: org-x
     location: Leeds, United Kingdom
     date_start: '2022-09-28'
     date_end: '2023-09-27'
@@ -37,7 +37,7 @@ experience:
   - title: BSc Geogaphical Science
     company: Shijiazhuang University 
     company_url: 'https://www.sjzc.edu.cn/english/'
-    company_logo: img/Shijiazhuang_University_Logo.jpg
+    company_logo: org-x
     location: Shijiazhuang, China
     date_start: '2018-09-03'
     date_end: '2022-06-05'
