@@ -37,7 +37,7 @@ header:
     align: r
     show_logo: ture
     show_language: true
-    show_day_night: true
+    show_day_night: flase
     show_search: true
     highlight_active_link: ture
 
