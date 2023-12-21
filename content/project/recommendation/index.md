@@ -1,5 +1,5 @@
 ---
-title: Recommendation Systems
+title: Deciphering brick kilns at risk of child labor
 summary: Write about your project here...
 tags:
   - ML
