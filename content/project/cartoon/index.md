@@ -4,5 +4,5 @@ summary:
 tags:
   - GA
 date: 2023-12-21
-external_link: https://haodesun.netlify.app/static/uploads/link/GEOG5405M.html
+external_link: https://haodesun.netlify.app/notebooks/GEOG5405M.ipynb
 ---
