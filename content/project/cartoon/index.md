@@ -4,5 +4,5 @@ summary:
 tags:
   - GA
 date: 2022-01-01
-external_link: /workspaces/haodesun.github.io/static/uploads/link/GEOG5405M.html
+external_link: static/uploads/link/GEOG5405M.html
 ---
