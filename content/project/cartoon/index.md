@@ -1,8 +1,8 @@
 ---
 title: Sentiment Analysis of Leeds EV Charging Stations Comments Based on Zap-Map
-summary: Write about your project here...
+summary: 
 tags:
-  - CV
+  - GA
 date: 2022-01-01
-external_link: http://github.com
+external_link: /workspaces/haodesun.github.io/static/uploads/link/GEOG5405M.html
 ---
