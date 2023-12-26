@@ -1,6 +1,6 @@
 ---
-title: Deamand Analysis and Forecasting for Rothman
-summary: Write about your project here...
+title: Deamand Analysis and Forecasting for Rothman Retail
+summary: 
 tags:
   - GA
 date: 2022-01-01
