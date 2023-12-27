@@ -6,4 +6,4 @@ tags:
 date: 2023-12-29
 external_link: 
 ---
-<iframe src="uploads/link/forecast.pdf" width="800" height="600"></iframe>
+<iframe src="/uploads/link/forecast.pdf" style="width:100%; height:600px;" frameborder="0"></iframe>
