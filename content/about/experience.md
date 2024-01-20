@@ -27,8 +27,8 @@ experience:
     company_url: ''
     company_logo: org-gc
     location: Beijing, China
-    date_start: '2023-10'
-    date_end: '2023-11'
+    date_start: '2023-10-23'
+    date_end: '2023-11-13'
     description: |2-
         Responsibilities include:
         
@@ -41,8 +41,8 @@ experience:
     company_url: ''
     company_logo: org-x
     location: Shijiazhuang, China
-    date_start: '2021-03'
-    date_end: '2021-06'
+    date_start: '2021-03-01'
+    date_end: '2021-06-30'
     description: Taught Geography and researched Middle School Geography Teaching.
 
 design:
