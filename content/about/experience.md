@@ -43,7 +43,7 @@ experience:
     location: Shijiazhuang, China
     date_start: '2021-03'
     date_end: '2021-06'
-    description: Taught electronic engineering and researched semiconductor physics.
+    description: Taught Geography and researched Middle School Geography Teaching.
 
 design:
   columns: '1'
