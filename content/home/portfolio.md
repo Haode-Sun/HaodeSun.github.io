@@ -32,8 +32,8 @@ content:
       tag: GA
     - name: Transport Planning
       tag: TP
-    - name: Machine Learning
-      tag: ML
+    - name: Deep Learning
+      tag: DL
 
 design:
   columns: '1'
