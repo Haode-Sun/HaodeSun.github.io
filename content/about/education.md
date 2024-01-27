@@ -29,10 +29,7 @@ experience:
     location: Leeds, United Kingdom
     date_start: '2022-09-28'
     date_end: '2023-09-27'
-    description: |2-
-        * Dissertation on Y
-        * Basketball team
-        * DJ club
+    description: My dissertation was titled Optimal Location Framework for Electric Vehicle Charging Stations——A case study of Seattle, Washington
 
   - title: BSc Geogaphical Science
     company: Shijiazhuang University 
@@ -41,7 +38,7 @@ experience:
     location: Shijiazhuang, China
     date_start: '2018-09-03'
     date_end: '2022-06-05'
-    description: My dissertation was on Sponge Cities.
+    description: My Undergraduate Thesis was titled "Research on Sponge City Development in Shijiazhuang Based on 3S Technology"
 
 design:
   columns: '1'
