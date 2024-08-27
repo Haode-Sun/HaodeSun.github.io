@@ -28,12 +28,12 @@ content:
   filter_button:
     - name: All
       tag: '*'
-    - name: Geospatial Analysis
-      tag: GA
-    - name: Transport Planning
-      tag: TP
-    - name: Deep Learning
-      tag: DL
+    - name: Visualization & Reporting
+      tag: VR
+    - name: Data Modeling
+      tag: DM
+    - name: Spatial Analysis
+      tag: SA
 
 design:
   columns: '1'
