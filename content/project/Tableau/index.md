@@ -1,8 +1,8 @@
 ---
-title: UK Bank Customer Analytics Dashboard in Tableau
-summary: Skills: Tableau
+title: "UK Bank Customer Analytics Dashboard in Tableau"
+summary: "Skills: Tableau"
 tags:
-  -   VR
+  - VR
 date: 2024-08-28
-external_link: /uploads/link/Tableau.html
+external_link: "/uploads/link/Tableau.html"
 ---
