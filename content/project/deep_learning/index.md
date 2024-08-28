@@ -1,6 +1,6 @@
 ---
 title: Detecting Brick Kilns Zones Employing Child Labor Using Deep Learning and Remote Sensing
-summary: Skills: ArcGIS Pro, ArcGIS Online, Python, SingleShotDetector
+summary: Skills:ArcGIS Pro, ArcGIS Online, Python, SingleShotDetector
 tags:
   -   DM
 date: 2024-01-22
