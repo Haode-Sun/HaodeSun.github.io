@@ -1,6 +1,6 @@
 ---
 title: Chicago Taxi Demand Forecast
-summary: Skills: Python, Liner Regression, Support Vector Machine, Radom Forest, Logistic Regression, XGboost
+summary: Skills:Python, Liner Regression, Support Vector Machine, Radom Forest, Logistic Regression, XGboost
 tags:
   -   DM
 date: 2024-01-27
