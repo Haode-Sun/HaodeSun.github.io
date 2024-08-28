@@ -1,6 +1,6 @@
 ---
 title: Optimal Location Framework for Electric Vehicle Charging Stations
-summary: Skills: Python, Web Scraping, GIS
+summary: Skills:Python, Web Scraping, GIS
 tags:
   - SA
 date: 2024-01-02
