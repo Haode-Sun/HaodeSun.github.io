@@ -4,5 +4,5 @@ summary: Skills:R language(ggplot2, dplyr, caret, shiny), Airline Distribution, 
 tags:
   -   VR
 date: 2024-11-11
-external_link: /uploads/link/repot.html
+external_link: /uploads/link/report.pdf
 ---
